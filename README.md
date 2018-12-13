@@ -20,6 +20,14 @@ dbc3 ace2 3348 ab1a 6a1d cd0e 9840 b733
 
 ## How to cut?
 
+### Install
+
+Let us invite the barber! 
+
+```shell
+$ pip install barber
+```
+
 **Sample Usage**
 
 ```python
