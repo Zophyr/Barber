@@ -28,7 +28,7 @@ Let us invite the barber!
 $ pip install barber
 ```
 
-**Sample Usage**
+### Sample Usage
 
 ```python
 >>> from barber import barber
