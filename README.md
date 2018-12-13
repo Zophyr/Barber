@@ -63,3 +63,7 @@ e36%bc2%83b%3ae%643%d85%ba2%8ae%12d%09f%
 df5%9db%c3a%ce2%334%8ab%1a6%a1d%cd0%e98%
 40b%733%
 ```
+
+## Thanks to
+
+The specific method of "cutting hair" is taught by [hongzicong](https://github.com/hongzicong).
