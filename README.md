@@ -18,6 +18,8 @@ b48d d3e9 f7f8 16ad 692d 60de 96d0 df59
 dbc3 ace2 3348 ab1a 6a1d cd0e 9840 b733
 ```
 
+~~What a boring and useless package!~~
+
 ## How to cut?
 
 ### Install
