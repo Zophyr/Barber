@@ -30,6 +30,12 @@ Let us invite the barber!
 $ pip install barber
 ```
 
+Or invite a new barber >_
+
+```shell
+$ pip install --upgrade barber
+```
+
 ### Sample Usage
 
 ```python
