@@ -10,7 +10,7 @@
 
 def cut(str, length = 4, group = 8, style = ' '):
     
-    str = "".join([str[i] + style if (i  + 1) % length == 0 and not i == 0 else str[i] for i in range(len(str))])
-    str = "".join([str[i] + "\n" if (i  + 1) % ((length + 1) * group) == 0 and not i == 0 else str[i] for i in range(len(str))])
+    str = "".join([str[i] + style if (i + 1) % length == 0 and not ((i + 1) % (length * group)) == 0 and not i == 0 and not i == (len(str) - 1) else str[i] for i in range(len(str))])
+    str = "".join([str[i] + "\n" if (i + 1) % (((length + 1) * group) - 1) == 0 and not i == 0 and not i == (len(str) - 1) else str[i] for i in range(len(str))])
 
     return str
