@@ -9,4 +9,4 @@ setup(name='barber',
       author_email='the-zephyr@hotmail.com',
       url='https://zophyr.com',
       packages=['barber'],
-     )
+      )
