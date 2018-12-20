@@ -83,3 +83,7 @@ df5%9db%c3a%ce2%334%8ab%1a6%a1d%cd0%e98
 ## Thanks to
 
 The specific method of "cutting hair" is taught by [hongzicong](https://github.com/hongzicong).
+
+## UPs
+
+Barber is a item in the **Useless Project**. 
